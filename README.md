@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tanvir07-Ronaldo/Tanvir07-Ronaldo/main/My%20Banner.png" alt="Banner for Mohammad Tanvir" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanvir07-Ronaldo/Tanvir07-Ronaldo/main/My%20Banner.png" alt="Banner for Mohammad Tanvir" width="70%" />
 </p>
 <!--Night Owl image-->
 <div>
