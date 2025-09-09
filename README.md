@@ -1,11 +1,13 @@
+<!--Banner-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanvir07-Ronaldo/Tanvir07-Ronaldo/main/My%20Banner.png" alt="Banner for Mohammad Tanvir" width="100%" />
+</p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<p align="center">
-  <img src="https://github.com/Tanvir07-Ronaldo/Tanvir07-Ronaldo/blob/main/My%20banner.png?raw=true" alt="Banner for Mohammad Tanvir" width="100%" />
-</p>
+---
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ **Mohammad Tanvir!**  
@@ -15,7 +17,7 @@
 
 <!--Intro-->
 <p align="left">
-I’m an aspiring AI Engineer and researcher with a strong foundation in data science, machine learning, and intelligent systems. Currently I am an intern at My Robot Time international limited company as a robot engineer developing various industry projects. 
+I’m an aspiring AI Engineer and researcher with a strong foundation in data science, machine learning, and intelligent systems. Currently I am an intern at My Robot Time International Limited as a robot engineer developing various industry projects.  
 Currently pursuing my AI degree in Korea, I combine technical knowledge with leadership qualities, having captained the **Bangladesh team in an international format**.  
 
 I’m passionate about leveraging AI for **real-world impact** — from **assistive technologies for the blind** to **AI-powered smart cities**.  
@@ -95,6 +97,16 @@ I’m passionate about leveraging AI for **real-world impact** — from **assist
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40"/>
   </a>
+
+</div>
+
+---
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 </div>
 
